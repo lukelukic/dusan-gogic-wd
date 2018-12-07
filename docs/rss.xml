@@ -3,24 +3,24 @@
 <channel>
 	
 	<title>Servis Gogić</title>
-	<link>index.html</link>
+	<link>https://lukelukic.github.io/gusan-gogic.wd</link>
 	<description>Servis računarske i mobilne opreme</description>
 	
 	<item>
 		<title>Usluge</title>
-		<link>usluge.html</link>
+		<link>https://lukelukic.github.io/gusan-gogic.wd/usluge.html</link>
 		<description>Proširili smo listu usluga</description>
 	</item>
 	
 	<item>
 		<title>Galerija</title>
-		<link>galerija.html</link>
+		<link>https://lukelukic.github.io/gusan-gogic.wd/galerija.html</link>
 		<description>Dodali smo slike u galeriju</description>
 	</item>
 	
 	<item>
 		<title>Kontakt</title>
-		<link>kontakt.html</link>
+		<link>https://lukelukic.github.io/gusan-gogic.wd/kontakt.html</link>
 		<description>Kontaktirajte nas!</description>
 	</item>
 	
