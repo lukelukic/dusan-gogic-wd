@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version ="2.0">
+<channel>
+	
+	<title>Servis Gogić</title>
+	<link>index.html</link>
+	<description>Servis računarske i mobilne opreme</description>
+	
+	<item>
+		<title>Usluge</title>
+		<link>usluge.html</link>
+		<description>Proširili smo listu usluga</description>
+	</item>
+	
+	<item>
+		<title>Galerija</title>
+		<link>galerija.html</link>
+		<description>Dodali smo slike u galeriju</description>
+	</item>
+	
+	<item>
+		<title>Kontakt</title>
+		<link>kontakt.html</link>
+		<description>Kontaktirajte nas!</description>
+	</item>
+	
+	
+</channel>
+</rss>
