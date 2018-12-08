@@ -383,10 +383,10 @@ details p:first-of-type{
 	from {color: #252525;}
 	to {color: #ffffff;}
 }
-summary:hover .cena{
+details:hover .cena{
 	animation: animacija 2.5s;
 }
-summary:hover .cena{
+details:hover .cena{
 	color:#ffffff;
 }
 .link {
@@ -403,7 +403,3 @@ summary:hover .cena{
 .link a:hover {
 	letter-spacing: 2px;
 }
-
-
-
-	
